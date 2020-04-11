@@ -1,0 +1,72 @@
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\minor project.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\minor project.pdb
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\Antlr3.Runtime.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.AspNet.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.Core.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OAuth.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OpenId.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\EntityFramework.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\System.Web.Optimization.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\System.Web.Providers.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\WebGrease.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\EntityFramework.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.Core.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OAuth.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OpenId.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\bin\DotNetOpenAuth.AspNet.xml
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\obj\Debug\minor project.csprojResolveAssemblyReference.cache
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\obj\Debug\minor project.dll
+c:\users\megatech\documents\visual studio 2012\Projects\minor project\minor project\obj\Debug\minor project.pdb
+C:\Users\MEGATECH\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.Data.Tools.Contracts.11.dll
+C:\Users\MEGATECH\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\MEGATECH\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.11.dll
+C:\Users\MEGATECH\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.11.dll
+C:\Users\MEGATECH\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.Data.Tools.Utilities.dll
+C:\Users\MEGATECH\documents\visual studio 2012\Projects\minor project\minor project\bin\Microsoft.SqlServer.Dac.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\minor project.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\minor project.pdb
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Antlr3.Runtime.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\AspNet.ScriptManager.jQuery.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.AspNet.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.Core.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OAuth.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OpenId.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\EntityFramework.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.Data.Tools.Contracts.11.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.Data.Tools.Schema.Sql.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.Data.Tools.Schema.Tasks.Sql.11.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.Data.Tools.Schema.Utilities.Sql.11.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.Data.Tools.Utilities.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.ScriptManager.WebForms.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.SqlServer.Dac.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\Microsoft.Web.Infrastructure.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\System.Web.Optimization.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\System.Web.Providers.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\WebGrease.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\EntityFramework.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.Core.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OAuth.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OpenId.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\bin\DotNetOpenAuth.AspNet.xml
+E:\asp.net\BACK UP\bishal minor project\minor project\obj\Debug\minor project.csprojResolveAssemblyReference.cache
+E:\asp.net\BACK UP\bishal minor project\minor project\obj\Debug\minor project.dll
+E:\asp.net\BACK UP\bishal minor project\minor project\obj\Debug\minor project.pdb
